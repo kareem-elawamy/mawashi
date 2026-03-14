@@ -46,8 +46,8 @@ The system is designed to reflect the real operational process of livestock sacr
 
 ## Tech Stack
 
-- Backend: ASP.NET Core
-- Database: SQL Server
+- Backend: php
+- Database: mySql
 - Frontend: HTML / CSS / JavaScript
 - Dashboard UI for administrators
 
